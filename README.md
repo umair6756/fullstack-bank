@@ -18,6 +18,7 @@ Full stack digital wallet application developed in Next.js and Node.js with Type
 
 Aplicação full stack dockerizada de carteira digital desenvolvida em Next.js e Node.js com TypeScript.
 <br />
+<br />
 </details>
 
 ## :man_technologist: Developed Skills//Habilidades desenvolvidas
